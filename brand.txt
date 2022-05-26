@@ -1,0 +1,12 @@
+---Chọn---
+iPhone
+iPad
+Macbook
+Apple
+Samsung
+Xiaomi
+Oppo
+Vivo
+Honor
+Huawei
+Nokia
