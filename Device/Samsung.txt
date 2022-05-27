@@ -15,6 +15,9 @@ Samsung A53
 Samsung A73
 Samsung Note 20
 Samsung Note 20 Ultra
+Samsung S20
+Samsung S20 Plus
+Samsung S20 Ultra
 Samsung S21
 Samsung S21 Plus
 Samsung S21 Ultra
@@ -23,4 +26,5 @@ Samsung S22
 Samsung S22 Plus
 Samsung S22 Ultra
 Samsung Z Fold3
+Samsung Z Fold2
 Samsung Z Flip3
